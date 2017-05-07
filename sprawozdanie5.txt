@@ -1,0 +1,4 @@
+Interfejs określa jak mają wyglądać jakie wymagania mają spełniać klasy implementujące nasz interfejs.
+Interfejs może rozszerzać tylko inne interfejsy. Musi być on utworzony poprzez słowo kluczowe Interface.
+W moim programie używałem inteface'ow do korzystania z myszy oraz dodawania akcji do przycisku.
+
